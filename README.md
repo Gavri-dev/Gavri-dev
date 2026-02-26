@@ -1,6 +1,6 @@
 # Hey, I'm Gavri 👋
 
-CS student focused on backend systems, full-stack development, and security research.
+Computer Science Student (B.Sc.) focused on backend systems, full-stack development, and security research.
 
 I like building tools that dig into how things actually work under the hood — WebSocket interception, reverse engineering, API design. Currently working in **Java**, **C++**, and **JavaScript**, with some **Python** on the side.
 
