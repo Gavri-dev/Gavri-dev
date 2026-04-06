@@ -1,4 +1,4 @@
-# Hey, I'm Gavri 👋
+# Hey, I'm Gavriel
 
 Computer Science Student (B.Sc.) focused on backend systems, full-stack development, and security research.
 
@@ -6,7 +6,7 @@ I like building tools that dig into how things actually work under the hood — 
 
 ---
 
-### 🔧 What I Work With
+###  What I Work With
 
 **Languages**
 
@@ -24,13 +24,13 @@ I like building tools that dig into how things actually work under the hood — 
 
 ---
 
-### 📌 Featured Project
+###  Featured Project
 
 **[kAIhoot](https://github.com/Gavri-dev/kAIhoot)** — AI-powered Chrome extension that auto-answers every Kahoot question type in real-time. Built with WebSocket interception, React DOM manipulation, and OpenAI API integration. Supports question types no other tool handles (pin-it, jumble, slider, open-ended).
 
 ---
 
-### 🎯 Interests
+###  Interests
 
 - Backend architecture & API design
 - Full-stack development
